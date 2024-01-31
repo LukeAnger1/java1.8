@@ -1,1 +1,1 @@
-This is just a copy of java 1.8
+Quick way to install java1.8 on linux machines. You can change the file path manually.
